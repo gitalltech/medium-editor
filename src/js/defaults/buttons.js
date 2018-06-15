@@ -202,7 +202,7 @@
             action: 'append-pre',
             aria: 'preformatted text',
             tagNames: ['pre'],
-            contentDefault: '<b>0101</b>',
+            contentDefault: '<b></></b>',
             contentFA: '<i class="fa fa-code fa-lg"></i>'
         },
         'h1': {
@@ -218,7 +218,7 @@
             action: 'append-h2',
             aria: 'header type two',
             tagNames: ['h2'],
-            contentDefault: '<b>H2</b>',
+            contentDefault: '<b>H</b>',
             contentFA: '<i class="fa fa-header"><sup>2</sup>'
         },
         'h3': {
@@ -226,7 +226,7 @@
             action: 'append-h3',
             aria: 'header type three',
             tagNames: ['h3'],
-            contentDefault: '<b>H3</b>',
+            contentDefault: '<b>h</b>',
             contentFA: '<i class="fa fa-header"><sup>3</sup>'
         },
         'h4': {
